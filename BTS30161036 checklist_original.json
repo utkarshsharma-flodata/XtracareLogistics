@@ -1,0 +1,242 @@
+{
+    "document_info": {
+      "document_type": "Bill of Entry for Home Consumption",
+      "port_of_submission": "ACC, New Delhi",
+      "mode_of_transport": "Air",
+      "job_number": "10654",
+      "user_job_number": "11/02/2025",
+      "be_number": "DEL4/2425//",
+      "be_date": "11/02/2025",
+      "prepared_by": "IMPEX BUREAU",
+      "prepared_date": "11/02/2025",
+      "prepared_time": "",
+      "location": "Delhi",
+      "custodian": "IMPEX BUREAU"
+    },
+
+    "cha_details": {
+      "cha_name": "IMPEX BUREAU",
+      "cha_code": "AAKPG4364KCH001",
+      "cha_address": "D-96, Third Floor, Address 2",
+      "cha_city": "Delhi",
+      "cha_state": "Delhi",
+      "cha_pin": "110000"
+    },
+
+    "importer_details": {
+      "importer_name": "VIKAS BAMRARA",
+      "importer_address": "A-104, NTPC CGHS Society, Plot No-10, Near Sanskriti",
+      "importer_city": "New Delhi",
+      "importer_state": "Delhi",
+      "importer_pin": "000000",
+      "importer_pan": "AKUPB8188L",
+      "gstin_number": "",
+      "branch_code": "0",
+      "state_code": "07",
+      "commercial_tax_type": "I",
+      "commercial_tax_reg_no": "AKUPB8188L",
+      "importer_type": "Private",
+      "public_sector": "No",
+      "green_channel": "No",
+      "first_check": "No",
+      "prior_be": "Yes",
+      "sec_48": "No",
+      "kacha_be": "No",
+      "ad_code": "6390043",
+      "payment_mode": "T"
+    },
+
+    "supplier_details": {
+      "supplier_name": "PIXII AS",
+      "supplier_address": "CF ANDOYFARET 15, 4623 KRISTIANSAND S",
+      "supplier_city": "Kristiansand",
+      "supplier_country": "Norway",
+      "terms_of_payment": "OTH",
+      "buyer_seller_related": "N",
+      "svb_ref_no": "",
+      "svb_load_status": "0.0000 %",
+      "svb_load_assessment": "0.0000 %",
+      "svb_load_duty": "0.0000 %",
+      "svb_load_on": "",
+      "agency_commission": "0.000 %",
+      "loading_charges": "0.000 %",
+      "freight": "1.1250 % (18.61 USD)",
+      "insurance": "0.00 %",
+      "misc_charges": "0.00 %",
+      "high_sea_sale": "0.000 %",
+      "discount": "0.000 %",
+      "nature_of_transaction": "",
+      "valuation_method": "",
+      "exchange_rate": "1 USD = 88.40 INR"
+    },
+
+    "invoice_details": {
+      "invoice_number": "1358",
+      "invoice_date": "05/02/2025",
+      "invoice_value": "1654.48 USD",
+      "invoice_currency": "USD",
+      "invoice_value_in_inr": "147,901.41",
+      "freight_in_inr": "",
+      "insurance_in_inr": "",
+      "total_invoice_value_in_inr": "147,901.41",
+      "mode_of_payment": "OTH"
+    },
+
+    "shipment_details": {
+      "mawb_number": "NOMAWB",
+      "mawb_date": "07/02/2025",
+      "hawb_number": "BTS30161036",
+      "hawb_date": "07/02/2025",
+      "port_of_loading": "BRATISLAVA",
+      "port_of_entry": "ACC, New Delhi",
+      "country_of_origin": "Norway",
+      "country_of_consignee": "Norway",
+      "no_of_packages": "1 PKG",
+      "gross_weight": "150.000 KGS",
+      "marks_and_numbers": "As per AWB",
+      "igm_number": "1358",
+      "igm_date": "05/02/2025",
+      "igm_inward_date": "",
+      "transit_country": "",
+      "location": "Delhi",
+      "job_number": "10654",
+      "job_date": "11/02/2025"
+    },
+
+    "item_details": [
+      {
+        "serial_number": "1",
+        "ritc_code": "85381010",
+        "description": "PIXII HOME OD (12511) (Cabinet of Energy Storage System) (For industrial use only)",
+        "generic_description": "Energy Storage Cabinet",
+        "model_number": "12511",
+        "quantity": "1",
+        "unit": "PCS",
+        "unit_price": "1654.480000",
+        "assessable_value_in_inr": "147,901.41",
+        "cth": "85381010",
+        "ceth": "85381010",
+        "customs_notn": "001/2017",
+        "excise_notn": "",
+        "bcd_rate": "7.50%",
+        "bcd_amount": "11,092.61",
+        "cvd_rate": "0.00%",
+        "cvd_amount": "0.00",
+        "aidc_duty_rate": "0.00%",
+        "aidc_duty_amount": "0.00",
+        "social_welfare_surcharge_rate": "10.00%",
+        "social_welfare_surcharge_amount": "1,109.26",
+        "igst_rate": "18.00%",
+        "igst_amount": "28,818.59",
+        "igst_cess_rate": "0.00%",
+        "igst_cess_amount": "0.00",
+        "manufacturer_name": "PIXII AS",
+        "brand_name": "PIXII",
+        "model": "GNX200",
+        "country_of_origin": "Norway",
+        "end_use": "Industrial Use",
+        "end_use_code": "GNX200",
+        "account_status": "",
+        "remarks": ""
+      }
+    ],
+
+    "duty_summary": {
+      "total_assessable_value": "147,901.41",
+      "total_duties": "41,020.46",
+      "bcd_total": "11,092.61",
+      "sws_total": "1,109.26",
+      "cvd_total": "0.00",
+      "aidc_total": "0.00",
+      "igst_total": "28,818.59",
+      "igst_cess_total": "0.00",
+      "safeguard_duty": "0.00",
+      "anti_dumping_duty": "0.00",
+      "health_cess": "0.00",
+      "education_cess": "0.00",
+      "customs_health_cess": "0.00",
+      "grand_total_in_words": "Rupees Forty-One Thousand Twenty Only"
+    },
+
+    "igst_details": [
+      {
+        "invoice_number": "1358",
+        "item_number": "1",
+        "duty_type": "G",
+        "duty_flag": "I",
+        "igst_flag": "G",
+        "igst_notn_number": "001/2017 III389",
+        "igst_rate": "18.00%",
+        "igst_amount": "28,818.59",
+        "exemption_notn_number": "",
+        "exemption_rate": "0.00%",
+        "exemption_amount": "0.00"
+      }
+    ],
+
+    "bond_details": {
+      "bond_number": "",
+      "bond_code": "",
+      "bond_amount": "",
+      "bg_rate": "",
+      "bg_amount": "",
+      "bond_debited": "",
+      "bg_debited": "",
+      "bond_port": ""
+    },
+
+    "single_window_info": [
+      {
+        "invoice_number": "1",
+        "item_number": "1",
+        "type": "CHR",
+        "qualifier_code": "SQC",
+        "text": "1.00",
+        "measurement": "NOS",
+        "unit": "NOS"
+      }
+    ],
+
+    "single_window_statement": [
+      {
+        "invoice_number": "0",
+        "item_number": "0",
+        "statement_for": "M",
+        "statement_type": "DEC",
+        "statement_code": "CUG00"
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "0",
+        "statement_for": "N",
+        "statement_type": "DEC",
+        "statement_code": "CUV01"
+      }
+    ],
+
+    "supporting_documents": [],
+
+    "manufacturer_details": {
+      "manufacturer_name": "PIXII AS",
+      "manufacturer_address": "ANDOYFARET 15, 4623 KRISTIANSAND S, NORWAY",
+      "manufacturer_country": "Norway",
+      "item_number": "1",
+      "end_use": "GNX200",
+      "source_country": "Norway"
+    },
+
+    "gst_summary": {
+      "gstin_number": "",
+      "state_code": "07",
+      "state_name": "Delhi",
+      "igst_assessable_value": "147,901.41",
+      "igst_amount": "28,818.59",
+      "gst_cess_amount": "0.00"
+    },
+
+    "declaration": {
+      "declaration_text": "I/We declare that the particulars given herein are true and are correct.",
+      "importer_signature": "Importer/CHA with Date",
+      "signature_date": "11/02/2025"
+    }
+}

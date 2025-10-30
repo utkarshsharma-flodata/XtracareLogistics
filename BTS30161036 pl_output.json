@@ -1,0 +1,63 @@
+{
+  "document_info": {
+    "document_type": "Packing Slip",
+    "document_number": "SH0000187",
+    "order_number": "SO0000065",
+    "document_date": "06.02.2025",
+    "pick_up_date": "05.02.2025",
+    "currency": "USD",
+    "delivery_terms": "DAP",
+    "customer_number": "IC0000008",
+    "seller_name": "Juraj Zok",
+    "customer_order": "",
+    "customer_reference": ""
+  },
+  "delivery_details": {
+    "delivery_name": "Three Aces Global Logistics Private",
+    "delivery_address": "KH NO. 483 WPO Bharthal Village Sector 26, Dwarka",
+    "delivery_city": "New Delhi",
+    "delivery_state": "",
+    "delivery_country": "India",
+    "delivery_contact": "",
+    "delivery_email": ""
+  },
+  "invoice_details": {
+    "invoice_name": "Vikas Bamrara",
+    "invoice_address": "366, DDA SFS Apartment Pocket 1, Sector 9 Dwarka",
+    "invoice_city": "New Delhi",
+    "invoice_state": "",
+    "invoice_country": "India"
+  },
+  "item_details": [
+    {
+      "product_number": "12511",
+      "description": "PixiiHome OD",
+      "quantity": "1",
+      "unit": "ea"
+    }
+  ],
+  "shipment_details": {
+    "pickup_location": "LM 160 DO",
+    "pickup_reference": "",
+    "freight_company": "",
+    "freight_contact": "",
+    "shipping_address": "",
+    "shipping_city": "",
+    "shipping_country": ""
+  },
+  "company_information": {
+    "company_name": "Pixii AS",
+    "company_address": "Andøyfaret 15",
+    "company_city": "4623 KRISTIANSAND S",
+    "company_country": "Norway",
+    "website": "www.pixii.com",
+    "email": "finance@pixii.com",
+    "corporate_id_number": "NO920652964MVA",
+    "vat_registration_number": "SK4120253555",
+    "eori_number": "SKNOC2100356",
+    "swift_code": "DABANO22",
+    "iban": "NO29850818170320",
+    "business_register": "",
+    "legal_note": "Please state Invoice No on payment"
+  }
+}

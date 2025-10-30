@@ -1,0 +1,83 @@
+{
+  "document_info": {
+    "document_type": "CUSTOM INVOICE",
+    "invoice_number": "1358",
+    "invoice_date": "5.2.2025",
+    "currency": "USD",
+    "customer_id": "",
+    "expiration_date": ""
+  },
+  "seller_details": {
+    "seller_name": "Pixii AS",
+    "seller_address": "Andøyfaret 15",
+    "seller_city": "4623 Kristiansand",
+    "seller_country": "Norway",
+    "seller_org_number": "920 652 964",
+    "seller_website": "www.pixii.com/",
+    "ship_from_name": "Pixii AS / CO Gergonne Slovensko s.r.o.",
+    "ship_from_address": "Za mostom 1010/21",
+    "ship_from_city": "031 04 Liptovský Mikuláš",
+    "ship_from_country": "Slovakia"
+  },
+  "buyer_details": {
+    "buyer_name": "Vikas Bamrara",
+    "buyer_address": "366, DDA SFS Apartment Pocket 1, Sector 9",
+    "buyer_city": "Dwarka, New Delhi - 110075",
+    "buyer_state": "",
+    "buyer_country": "India",
+    "buyer_contact": "",
+    "buyer_email": ""
+  },
+  "ship_to_details": {
+    "ship_to_name": "Three Aces Global Logistics Private Ltd",
+    "ship_to_address": "KH NO. 483 VPO Bharthal Village, Sector 26, Dwarka",
+    "ship_to_city": "New Delhi - 110077",
+    "ship_to_state": "",
+    "ship_to_country": "India",
+    "freight_type": "",
+    "estimated_ship_date": "",
+    "estimated_gross_weight": "",
+    "estimated_cubic_weight": "",
+    "total_packages": ""
+  },
+  "manufacturer_details": {
+    "manufacturer_name": "",
+    "manufacturer_address": "",
+    "manufacturer_city": "",
+    "manufacturer_country": ""
+  },
+  "item_details": [
+    {
+      "part_number": "12511",
+      "description": "PixiiHome OD",
+      "hs_code": "85044095",
+      "unit_of_measure": "pc",
+      "quantity": "1",
+      "unit_price": "1654,48",
+      "tax_rate": "",
+      "total_amount": "1 654,48 USD",
+      "currency": "USD"
+    }
+  ],
+  "financial_summary": {
+    "subtotal": "1 654,48 USD",
+    "taxable_value": "",
+    "tax_rate": "",
+    "tax_amount": "",
+    "freight_charge": "",
+    "insurance_charge": "",
+    "legal_or_consular_charge": "",
+    "inspection_or_cert_charge": "",
+    "other_charge_1": "",
+    "other_charge_2": "",
+    "total_invoice_value": "1 654,48 USD",
+    "currency": "USD"
+  },
+  "terms_and_comments": {
+    "terms_of_sale": "DAP",
+    "other_comments": "",
+    "incoterm": "",
+    "payment_terms": "",
+    "additional_instructions": ""
+  }
+}

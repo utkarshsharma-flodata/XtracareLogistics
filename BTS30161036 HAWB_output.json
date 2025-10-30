@@ -1,0 +1,101 @@
+{
+  "document_info": {
+    "document_type": "House Air Waybill",
+    "hawb_number": "BTS30161036",
+    "mawb_number": "",
+    "awb_reference_number": "",
+    "date_of_issue": "",
+    "issued_by": "",
+    "issuing_carrier_agent": "HANSEATIC SLOVAKIA S. R. O.",
+    "issuing_agent_signature": "RICHARD MRAZ",
+    "original_copy_number": "Original 3"
+  },
+  "shipper_details": {
+    "shipper_name": "PIXII AS",
+    "shipper_account_number": "",
+    "shipper_address": "ANDØYFARET 15 KRISTIANSAND 4623, NORWAY",
+    "shipper_city": "",
+    "shipper_country": "",
+    "shipper_contact": "",
+    "shipper_phone": "421908203459",
+    "shipper_email": ""
+  },
+  "consignee_details": {
+    "consignee_name": "VIKAS BAMERA",
+    "consignee_account_number": "",
+    "consignee_address": "366 DDA SFS APARTMENT POCKET 1 SECTOR 9 DWARKA NEW DELHI 110075, INDIA",
+    "consignee_city": "",
+    "consignee_country": "",
+    "consignee_contact": "",
+    "consignee_phone": "",
+    "consignee_email": ""
+  },
+  "notify_party": {
+    "notify_name": "",
+    "notify_address": "",
+    "notify_city": "",
+    "notify_country": "",
+    "notify_contact": "",
+    "notify_phone": "",
+    "notify_email": "",
+    "notify_gstin": "",
+    "notify_cin": ""
+  },
+  "routing_details": {
+    "airport_of_departure": "BTS/BRATISLAVA",
+    "airport_of_destination": "DEL/DELHI",
+    "routing": "LEJ QZ5337/07 QZ0548/10",
+    "first_carrier": "",
+    "flight_numbers": "QZ5337/07 QZ0548/10",
+    "flight_dates": "",
+    "intermediate_stops": "",
+    "requested_routing": "",
+    "requested_flight_date": ""
+  },
+  "cargo_details": {
+    "number_of_pieces": "1",
+    "gross_weight": "150 K",
+    "weight_unit": "K",
+    "chargeable_weight": "150",
+    "rate_class": "",
+    "commodity_item_number": "251",
+    "hs_code": "HS 85044095",
+    "goods_description": "ELECTRICAL ENERGY STORAGE 80X80X235CM/1",
+    "package_dimensions": "",
+    "nature_and_quantity_of_goods": "",
+    "declared_value_for_carriage": "NVD",
+    "declared_value_for_customs": "NCV",
+    "insurance_amount": "",
+    "handling_information": "Handling Information: LOGISTICS INDIA PVT LTD",
+    "sci_code": ""
+  },
+  "charges_and_values": {
+    "currency": "",
+    "freight_prepaid": "",
+    "freight_collect": "",
+    "valuation_charge": "",
+    "tax": "",
+    "total_other_charges_due_agent": "",
+    "total_other_charges_due_carrier": "",
+    "total_prepaid": "",
+    "total_collect": "",
+    "currency_conversion_rate": "",
+    "charges_at_destination": "",
+    "total_collect_charges": ""
+  },
+  "carrier_details": {
+    "carrier_name": "",
+    "carrier_city": "BRATISLAVA",
+    "carrier_iata_code": "",
+    "carrier_account_number": "",
+    "carrier_signature": "",
+    "carrier_date": "07-FEB-2025",
+    "carrier_location": ""
+  },
+  "certification": {
+    "dangerous_goods_certified": "Shipper certifies that the particulars on the face hereof are correct and that insofar as any part of the consignment contains dangerous goods, such part is properly described by name and is in proper condition for carriage by air according to the applicable Dangerous Goods Regulations.",
+    "shipper_signature": "",
+    "shipper_signature_date": "",
+    "shipper_signature_place": ""
+  }
+}
